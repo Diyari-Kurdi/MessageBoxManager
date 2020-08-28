@@ -3,7 +3,7 @@
 
 # شێوازی بەکارهێنان
 
-MessageBoxManager.Cancel = "پوچەڵکردنەوە";
+MessageBoxManager.Cancel = "لابردن";
 
 MessageBoxManager.Ignore = "گوێ پێنەدان";
 
