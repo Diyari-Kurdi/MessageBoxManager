@@ -1,7 +1,8 @@
 # MessageBoxManager
 گۆڕینی زمانی مەسج بۆکس بۆ کوردی
 
-#شێوازی بەکارهێنان
+# شێوازی بەکارهێنان
+
 MessageBoxManager.Cancel = "پوچەڵکردنەوە";
 MessageBoxManager.Ignore = "گوێ پێنەدان";
 MessageBoxManager.No = "نەخێر";
